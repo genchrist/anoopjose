@@ -83,8 +83,6 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: Text("I'm a mobile application developer with over 2 years of experience developing Mobile software. Whether you have the next great app idea or your business is struggling with an inefficient or error-prone process I will deliver a mobile solution tailored to your needs.",
                         style: TextStyle(color: Colors.grey[400]),
                           softWrap: true,
-
-
                         ),
                       ),
 
